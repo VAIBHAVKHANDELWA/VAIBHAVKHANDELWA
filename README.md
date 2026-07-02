@@ -35,6 +35,70 @@ Computer Science Engineering student at JUIT with a strong interest in Android D
 ## Graph
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=VAIBHAVKHANDELWA)
 
+## 💻 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/u/vaibhavkhandelwal2408/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+
+  <a href="https://www.codechef.com/users/vk2408">
+    <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+</p>
+
+
+## 🚀 Featured Projects
+
+### 🍔 Food Wheels – Two-Way Android Food Ordering System
+**Tech Stack:** Kotlin • Firebase • Android Studio • XML
+
+Developed a dual-application food ordering ecosystem with dedicated interfaces for customers and administrators.
+
+**Highlights**
+- 🔐 Firebase Authentication for secure login and session management
+- ⚡ Realtime order synchronization using Firebase Realtime Database
+- 📦 Order placement, tracking, and status monitoring
+- 🛠 Admin dashboard for menu and order management
+- 📱 Responsive Android UI with role-based functionality
+
+---
+
+### 🏨 LuxeManage – Hotel Management System
+**Tech Stack:** Java • JDBC • MySQL
+
+Designed a hotel management platform for reservations, billing, and guest record handling.
+
+**Highlights**
+- 🏷 Booking and room allocation management
+- 💳 Automated billing workflows
+- 🗄 MySQL integration using JDBC
+- 📊 Managed 100+ simulated guest records
+- 🔍 Search and retrieval functionalities
+
+---
+
+### 🌾 Smart Farming Assistance Application
+**Tech Stack:** Kotlin • Android Studio • XML
+
+Built an Android application to support farmers with data-driven agricultural insights.
+
+**Highlights**
+- ☁ Weather forecasting module
+- 📈 Market price comparison across 200+ mandis
+- 🌱 Crop recommendation workflows
+- 🌐 Multilingual accessibility
+- 📶 Offline support for low-connectivity environments
+
+
+
+## 🏆 Achievements
+
+- 🎓 **CGPA:** 9.1+
+- 💻 **300+ DSA Problems Solved** across LeetCode and CodeChef
+- 📱 Developed multiple Android applications using Kotlin, Firebase, and XML
+- 👥 Leadership experience as **Head of PR, The Joust**
+- 🌱 Passionate about Open Source and continuous learning
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
