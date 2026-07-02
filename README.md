@@ -10,9 +10,9 @@
 </p>
 
 ## Introduction
-Computer Science Engineering student at JUIT with a strong interest in Android Development, Data Structures & Algorithms, and Software Engineering.
+Computer Science Engineering student at JIIT with a strong interest in Android Development, Data Structures & Algorithms, and Software Engineering.
 
-- 🎓 CSE Undergraduate at JUIT
+- 🎓 CSE Undergraduate at JIIT
 - 💻 Building Android applications with Java, Kotlin, XML, and Firebase
 - 🌱 Currently learning System Design and Backend Development
 - 📚 Solving DSA problems regularly
