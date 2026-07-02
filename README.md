@@ -3,8 +3,17 @@
 </p>
 
 
-# 💫 About Me:
-Android Developer | Kotlin • Java • Firebase | DSA Enthusiast | Building Scalable Mobile Apps
+# Hi, I'm Vaibhav Khandelwal 👋
+
+## Introduction
+Computer Science Engineering student at JUIT with a strong interest in Android Development, Data Structures & Algorithms, and Software Engineering.
+
+- 🎓 CSE Undergraduate at JUIT
+- 💻 Building Android applications with Java, Kotlin, XML, and Firebase
+- 🌱 Currently learning System Design and Backend Development
+- 📚 Solving DSA problems regularly
+- 🎯 Seeking internship and placement opportunities
+- 📫 Reach me at: vaibhavkhandelwal2408@gmail.com
 
 
 # 💻 Tech Stack:
