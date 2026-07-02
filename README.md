@@ -100,11 +100,21 @@ Built an Android application to support farmers with data-driven agricultural in
 - 👥 Leadership experience as **Head of PR, The Joust**
 - 🌱 Passionate about Open Source and continuous learning
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 📫 Connect With Me
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=VAIBHAVKHANDELWA&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+<a href="https://www.linkedin.com/in/vaibhavkhandelwal-cse/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/VAIBHAVKHANDELWA">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:vaibhavkhandelwal2408@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=VAIBHAVKHANDELWA&icon=0&color=0)](https://visitcount.itsvg.in)
