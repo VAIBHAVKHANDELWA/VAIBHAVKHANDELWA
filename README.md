@@ -5,7 +5,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=48&duration=2500&pause=1000&color=4F46E5&center=true&vCenter=true&width=1100&height=90&lines=Hi+there%2C+Welcome+to+my+GitHub!;Hi+there%2C+I+am+Vaibhav+Khandelwal;Android+Developer;DSA+Enthusiast;Building+Projects+with+Kotlin+and+Firebase;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=48&duration=2500&pause=1000&color=4F46E5&center=true&vCenter=true&width=1100&height=90&lines=Hi+there%2C+Welcome+to+my+GitHub!;Hi+there%2C+I+am+Vaibhav+Khandelwal;Android+Developer;DSA+Enthusiast;Building+Projects+with+Kotlin+and+Firebase" />
 
 </p>
 
