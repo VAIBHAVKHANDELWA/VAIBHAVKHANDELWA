@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="Banner.png" width="100%">
+</p>
+
+
 # 💫 About Me:
 Android Developer | Kotlin • Java • Firebase | DSA Enthusiast | Building Scalable Mobile Apps
 
