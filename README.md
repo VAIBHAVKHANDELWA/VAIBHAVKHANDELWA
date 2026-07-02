@@ -21,14 +21,15 @@ Computer Science Engineering student at JUIT with a strong interest in Android D
 
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VAIBHAVKHANDELWA&show_icons=true&theme=tokyonight" height="170"/>
 
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VAIBHAVKHANDELWA&layout=compact&theme=tokyonight" height="170"/>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=VAIBHAVKHANDELWA&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VAIBHAVKHANDELWA&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=VAIBHAVKHANDELWA&theme=tokyonight" height="170"/>
+<img src="https://streak-stats.demolab.com?user=VAIBHAVKHANDELWA&theme=tokyonight"/>
 </p>
 
 
