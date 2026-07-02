@@ -20,9 +20,67 @@ Computer Science Engineering student at JUIT with a strong interest in Android D
 - 📫 Reach me at: vaibhavkhandelwal2408@gmail.com
 
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+## 💻 Tech Stack
 
+<table>
+<tr>
+<td width="250"><b>Programming Languages</b></td>
+<td>
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td><b>Android Development</b></td>
+<td>
+
+![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![XML](https://img.shields.io/badge/XML-00599C?style=for-the-badge)
+![Android SDK](https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td><b>Jetpack Components</b></td>
+<td>
+
+![Room Database](https://img.shields.io/badge/Room_Database-4285F4?style=for-the-badge)
+![WorkManager](https://img.shields.io/badge/WorkManager-673AB7?style=for-the-badge)
+
+</td>
+</tr>
+
+<tr>
+<td><b>Backend & Services</b></td>
+<td>
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Authentication](https://img.shields.io/badge/Firebase_Auth-FFA000?style=for-the-badge)
+![Realtime DB](https://img.shields.io/badge/Realtime_DB-FFCA28?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-336791?style=for-the-badge)
+
+</td>
+</tr>
+
+<tr>
+<td><b>Tools & Version Control</b></td>
+<td>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</td>
+</tr>
+
+</table>
 
 ## 📊 GitHub Stats
 
