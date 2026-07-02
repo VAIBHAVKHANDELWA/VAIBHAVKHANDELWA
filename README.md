@@ -32,10 +32,7 @@ Computer Science Engineering student at JUIT with a strong interest in Android D
   <img src="https://streak-stats.demolab.com?user=VAIBHAVKHANDELWA&theme=tokyonight" height="170"/>
 </p>
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=VAIBHAVKHANDELWA&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+## Graph
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=VAIBHAVKHANDELWA)
 
 
